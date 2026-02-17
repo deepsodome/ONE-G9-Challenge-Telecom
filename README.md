@@ -96,9 +96,4 @@ Estas recomendaciones sientan las bases para el desarrollo de **modelos predicti
 - **Google Colab**
 
 ---
-
-## 👤 Autor
-**[Jonathan Marino](https://github.com/JonathanMarino)**
-
-📅 Año: 2025  
-📍 Proyecto educativo — *Análisis de datos con Python*  
+ 
